@@ -1,4 +1,4 @@
-# Cleversteam::Style
+# cleversteam-style
 
 RuboCop implementation for Cleversteam projects. Based on [percy-style](https://github.com/percy/percy-style).
 
