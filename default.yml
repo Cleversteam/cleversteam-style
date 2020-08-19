@@ -7,6 +7,7 @@ AllCops:
     - 'Gemfile.lock'
     - 'node_modules/**/*'
     - 'vendor/**/*'
+    - 'app/views/**/*'
 
 Style/Documentation:
   Enabled: false
