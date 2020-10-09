@@ -9,6 +9,14 @@ AllCops:
     - 'vendor/**/*'
     - 'app/views/**/*'
 
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+
+Metrics/MethodLength:
+  Exclude:
+    - 'spec/**/*'
+
 Style/Documentation:
   Enabled: false
 
